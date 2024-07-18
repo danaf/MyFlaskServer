@@ -70,6 +70,12 @@ https://docs.aws.amazon.com/decision-guides/latest/containers-on-aws-how-to-choo
 AWS App Runner Container Deployment:
 https://docs.aws.amazon.com/app2container/latest/UserGuide/a2c-integrations-apprunner.html
 
+********************
+My Flask Server GitHub Repo
+(danaf@essentialinstructions account)
+********************
+https://github.com/danaf/MyFlaskServer
+
 
 ********************
 AWS
